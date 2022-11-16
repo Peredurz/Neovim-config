@@ -11,4 +11,4 @@ Dit is mijn neovim configuration setup met alle code die nodig is om het mooi te
 	- In keymap.lua wordt ervoor gezorgd dat ik van een paar functies van vim, dus de voorganger van neovim gebruik kan maken
 	- De file cmp.lua zorgt ervoor dat ik net zoals in VSCode gebruik kan maken van autocompletion van functienamen en nog veel meer
 	- Autopairs.lua zorgt ervoor dat ik als ik haakjes open en gesloten wil dat, dat ook wordt gedaan want dat gaat niet automatisch in neovim
-	- In de Map lsp zitten een aantal configuraties waardoor ik gebruik kan maken van linters om te kijken of mijn code wel in Flake8 is geschreven
+	- In de Map lsp zitten een aantal configuraties waardoor ik gebruik kan maken van linters om te kijken of mijn code wel in Flake8 is geschreven ook zorg ik ervoor dat de file automatisch wordt geformatteerd als ik de file save
